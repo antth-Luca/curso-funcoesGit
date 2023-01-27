@@ -1,4 +1,2 @@
 # Olá, Mundo!
- Primeiro repositório do curso de Git e GitHub
- 
- Essa linha eu adicionei pelo site!
+ Primeiro repositório do **curso de Git e GitHub**, todo material no *YouTube* e *site do Curso em Vídeo*
